@@ -15,7 +15,7 @@ Scott Van Zyl was a prolific trophy hunter from South Africa. In addition to bei
 
 His targets included lions, cheetahs, giraffes and elephants.
 
-![](https://www.theanimalclub.net/wp-content/uploads/sites/3/2020/07/C9DDa0XXgAAa6vH.jpeg)
+![](/assets/safe_image-3-.jpg)
 
 [Twitter/@SABreakingNews](https://twitter.com/SABreakingNews/status/851395213058863104/photo/1)
 
