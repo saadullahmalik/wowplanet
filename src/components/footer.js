@@ -11,7 +11,7 @@ const Footer = () => (
     }}
   >
     <div className="container">
-      <p>© 2020 • <span className="icon -love"><RiHeart2Line/></span> by <Link to="/">Ourbestwatches.com</Link></p>
+      <p>© 2020 wowplanet <span className="icon -love"><RiHeart2Line/></span> by <Link to="/"></Link></p>
     </div>
   </footer>
 )
