@@ -4,6 +4,7 @@ title: Trophy hunter who targeted elephants and lions gets eaten by crocodiles
 slug: "/Trophy-hunter-who-targeted "
 date: 2021-04-21 21:09
 description: All animal lovers
+featuredImage: /assets/safe_image-3-.jpg
 ---
 All animal lovers are [opposed to trophy hunting](https://www.theanimalclub.net/wildlife/ricky-gervais-speaks-out-against-trophy-hunting-calling-it-humanity-at-its-very-worst/). It can be hard to believe that there are people who enjoy killing at-risk animals like lions and rhinos.
 
@@ -15,7 +16,7 @@ Scott Van Zyl was a prolific trophy hunter from South Africa. In addition to bei
 
 His targets included lions, cheetahs, giraffes and elephants.
 
-![](/assets/safe_image-3-.jpg)
+![](https://www.theanimalclub.net/wp-content/uploads/sites/3/2020/07/C9DDa0XXgAAa6vH.jpeg)
 
 [Twitter/@SABreakingNews](https://twitter.com/SABreakingNews/status/851395213058863104/photo/1)
 
