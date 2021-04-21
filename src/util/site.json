@@ -1,12 +1,12 @@
 {
   "meta": {
-    "title": "Foundation",
-    "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
-    "image": "/assets/stackrole.png",
-    "iconimage": "/assets/stackrole.png",
+    "title": "Wow Planet",
+    "titleTemplate": "Wow Planet",
+    "description": "The amazing people who love their pets.....",
+    "siteUrl": "https://wowplanet.netlify.app/",
+    "image": "/assets/sss.jpg",
+    "iconimage": "/assets/sss.jpg",
     "twitterUsername": "@stackrole"
   },
-  "ga": "UA-XXXXXXXXX-X"
+  "ga": "UA-89001005-1"
 }
