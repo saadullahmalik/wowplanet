@@ -5,6 +5,7 @@ slug: /39-Times-People
 date: 2021-04-23 00:17
 description: You know how these days people can rate everything - from customer
   service to stuff you buy online
+featuredImage: /assets/safe_image-5-.jpg
 ---
 You know how these days people can rate everything - from customer service to stuff you buy online and even your looks or your pets' likeability. And as much as people love the man's best friends aka dogs, they are still being rated for their demeanor and cuteness daily. And we know where to find the most hilarious funny dog ratings ever.
 
